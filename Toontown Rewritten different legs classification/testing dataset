@@ -1,0 +1,1001 @@
+,laff,species,gender_M,colour,dl,lc,mt,org,nt,flippy,orgsound,ab120,highnt,range
+0,83,cat,0,ice blue,1,periwinkle,drop,none,spooky,0,0,1,0,80-89
+1,106,horse,1,emerald,0,0,trap,toon-up,none,0,0,1,0,100-109
+2,135,cat,0,slate blue,1,peach,drop,sound,wonky,0,1,0,0,130-139
+3,119,rabbit,0,cream,0,0,trap,throw,whimsical,0,0,1,1,110-119
+4,76,pig,1,pink,0,0,trap,none,none,0,0,1,0,70-79
+5,104,pig,0,spooky purple,0,0,toon-up,none,none,0,0,1,0,100-109
+6,129,cat,0,royal blue,1,periwinkle,drop,throw,zany,1,0,0,1,120-129
+7,113,cat,0,crimson,1,light blue,toon-up,throw,boardwalk,1,0,1,0,110-119
+8,112,monkey,1,cartoonival blue,0,0,trap,sound,member,0,1,1,0,110-119
+9,110,cat,0,spooky purple,0,0,drop,none,zany,0,0,1,1,110-119
+10,75,crocodile,1,sea green,0,0,drop,none,shivering,0,0,1,0,70-79
+11,112,crocodile,0,emerald,0,0,drop,lure,shivering,0,0,1,0,110-119
+12,122,cat,1,bright red,0,0,drop,throw,silly,0,0,0,0,120-129
+13,108,cat,1,ice blue,0,0,trap,lure,silly,0,0,1,0,100-109
+14,121,cat,1,beige,1,crimson,drop,throw,action,0,0,0,1,120-129
+15,111,cat,1,bright red,0,0,drop,none,whimsical,0,0,1,1,110-119
+16,110,cat,1,rose pink,0,0,trap,throw,spooky,0,0,1,0,110-119
+17,72,bear,1,crimson,0,0,drop,lure,shivering,0,0,1,0,70-79
+18,107,horse,1,brown,0,0,drop,sound,nautical,0,1,1,0,100-109
+19,103,cat,0,pink,0,0,drop,throw,shivering,0,0,1,0,100-109
+20,115,dog,0,lavender,0,0,trap,sound,spooky,0,1,1,0,110-119
+21,105,dog,0,crimson,0,0,lure,sound,shivering,0,1,1,0,100-109
+22,105,dog,1,steel blue,0,0,drop,lure,spooky,0,0,1,0,100-109
+23,108,rabbit,0,pink,1,steel blue,drop,lure,boardwalk,0,0,1,0,100-109
+24,72,mouse,1,blue,0,0,trap,lure,none,0,0,1,0,70-79
+25,122,dog,0,light blue,0,0,trap,drop,spooky,0,0,0,0,120-129
+26,109,duck,0,brown,0,0,drop,throw,none,0,0,1,0,100-109
+27,93,dog,0,aqua,0,0,trap,none,boardwalk,0,0,1,0,90-99
+28,109,bear,1,steel blue,0,0,trap,lure,poetic,0,0,1,0,100-109
+29,131,cat,0,cartoonival pink,0,0,trap,throw,none,0,0,0,0,130-139
+30,68,rabbit,1,bright red,0,0,trap,none,none,0,0,1,0,60-69
+31,76,bear,1,blue,0,0,trap,none,none,0,0,1,0,70-79
+32,102,bear,1,maroon,0,0,trap,none,none,0,0,1,0,100-109
+33,138,rabbit,0,crimson,0,0,drop,throw,wonky,0,0,0,0,130-139
+34,87,rabbit,0,steel blue,0,0,trap,none,poetic,0,0,1,0,80-89
+35,137,cat,1,crimson,0,0,trap,throw,wonky,0,0,0,0,130-139
+36,83,deer,1,coral,0,0,toon-up,none,none,0,0,1,0,80-89
+37,108,cat,0,pink,0,0,drop,none,shivering,0,0,1,0,100-109
+38,106,crocodile,1,yellow,0,0,trap,lure,shivering,0,0,1,0,100-109
+39,67,monkey,1,mint green,0,0,drop,none,none,0,0,1,0,60-69
+40,72,rabbit,0,amber,0,0,drop,none,none,0,0,1,0,70-79
+41,109,dog,1,slate blue,1,blue,trap,none,none,0,0,1,0,100-109
+42,108,cat,0,ice blue,0,0,trap,throw,spooky,0,0,1,0,100-109
+43,111,pig,0,periwinkle,0,0,trap,lure,western,0,0,1,0,110-119
+44,110,deer,1,coral,0,0,drop,lure,none,0,0,1,0,110-119
+45,106,mouse,1,cartoonival blue,0,0,drop,throw,silly,1,0,1,0,100-109
+46,111,cat,0,black,0,0,drop,throw,none,0,0,1,0,110-119
+47,67,cat,1,red,0,0,drop,none,none,0,0,1,0,60-69
+48,62,dog,1,crimson,0,0,trap,toon-up,none,0,0,1,0,60-69
+49,67,cat,1,blue,0,0,drop,lure,none,0,0,1,0,60-69
+50,104,cat,0,tan,0,0,trap,toon-up,poetic,0,0,1,0,100-109
+51,127,rabbit,1,cartoonival blue,0,0,trap,none,spooky,0,0,0,0,120-129
+52,115,cat,0,ice blue,1,peach,drop,none,poetic,0,0,1,0,110-119
+53,111,cat,1,aqua,0,0,drop,none,whimsical,0,0,1,1,110-119
+54,122,dog,1,dark green,0,0,trap,throw,poetic,0,0,0,0,120-129
+55,96,cat,0,black,0,0,trap,sound,wonky,0,1,1,0,90-99
+56,102,cat,0,black,0,0,drop,none,none,0,0,1,0,100-109
+57,86,cat,0,purple,0,0,trap,none,boardwalk,0,0,1,0,80-89
+58,81,duck,0,pink,0,0,drop,none,none,0,0,1,0,80-89
+59,133,monkey,1,blue,0,0,trap,throw,none,0,0,0,0,130-139
+60,102,deer,0,steel blue,1,teal,drop,none,western,0,0,1,0,100-109
+61,126,dog,0,light blue,0,0,trap,throw,silly,0,0,0,0,120-129
+62,70,cat,0,black,0,0,toon-up,none,spooky,0,0,1,0,70-79
+63,84,deer,1,citrine,1,yellow,drop,lure,shivering,0,0,1,0,80-89
+64,95,duck,1,periwinkle,0,0,trap,lure,none,0,0,1,0,90-99
+65,97,dog,0,crimson,0,0,trap,throw,boardwalk,0,0,1,0,90-99
+66,120,cat,0,cream,1,aqua,drop,none,fancy,0,0,0,1,120-129
+67,127,cat,0,black,0,0,drop,trap,poetic,0,0,0,0,120-129
+68,100,cat,0,ice blue,1,mint green,trap,none,poetic,1,0,1,0,100-109
+69,114,bear,0,ice blue,0,0,lure,throw,shivering,0,0,1,0,110-119
+70,109,rabbit,0,spooky purple,0,0,drop,lure,western,0,0,1,0,100-109
+71,84,dog,1,bright red,0,0,lure,sound,member,0,1,1,0,80-89
+72,121,dog,1,aqua,0,0,drop,none,none,0,0,0,0,120-129
+73,102,rabbit,0,mint green,0,0,trap,throw,spooky,0,0,1,0,100-109
+74,137,cat,1,periwinkle,0,0,trap,sound,spooky,0,1,0,0,130-139
+75,109,dog,1,citrine,0,0,drop,throw,none,0,0,1,0,100-109
+76,67,bear,1,white,0,0,trap,throw,none,0,0,1,0,60-69
+77,109,cat,0,black,0,0,trap,none,none,0,0,1,0,100-109
+78,91,cat,0,beige,0,0,trap,throw,shivering,0,0,1,0,90-99
+79,91,mouse,0,crimson,0,0,drop,throw,poetic,0,0,1,0,90-99
+80,133,bear,0,cream,0,0,trap,throw,wonky,0,0,0,0,130-139
+81,88,deer,0,spooky purple,0,0,drop,throw,wonky,0,0,1,0,80-89
+82,71,cat,0,apricot,0,0,toon-up,none,poetic,0,0,1,0,70-79
+83,98,cat,0,brown,1,light blue,drop,none,fancy,0,0,1,1,90-99
+84,120,duck,0,purple,0,0,trap,drop,wonky,0,0,0,0,120-129
+85,96,dog,1,peach,0,0,trap,sound,none,0,1,1,0,90-99
+86,104,duck,0,cream,0,0,drop,none,member,0,0,1,0,100-109
+87,115,dog,1,cartoonival blue,0,0,drop,lure,silly,0,0,1,0,110-119
+88,120,rabbit,0,purple,0,0,trap,sound,spooky,0,1,0,0,120-129
+89,73,rabbit,0,brown,0,0,trap,none,member,0,0,1,0,70-79
+90,93,monkey,1,apricot,0,0,trap,none,none,0,0,1,0,90-99
+91,113,mouse,1,steel blue,0,0,trap,none,shivering,0,0,1,0,110-119
+92,93,rabbit,1,teal,0,0,trap,throw,none,0,0,1,0,90-99
+93,89,dog,1,blue,0,0,trap,toon-up,shivering,0,0,1,0,80-89
+94,98,dog,0,periwinkle,0,0,trap,none,nautical,0,0,1,0,90-99
+95,108,cat,0,lavender,0,0,trap,sound,none,0,1,1,0,100-109
+96,106,rabbit,0,purple,0,0,lure,throw,poetic,0,0,1,0,100-109
+97,99,cat,0,coral,0,0,trap,throw,whimsical,0,0,1,1,90-99
+98,92,crocodile,0,peach,0,0,trap,throw,none,0,0,1,0,90-99
+99,99,dog,1,purple,0,0,drop,none,none,0,0,1,0,90-99
+100,76,cat,1,ice blue,0,0,trap,none,spooky,0,0,1,0,70-79
+101,105,duck,1,spooky purple,0,0,toon-up,none,spooky,0,0,1,0,100-109
+102,129,cat,0,brown,1,royal blue,toon-up,sound,none,0,1,0,0,120-129
+103,112,monkey,1,purple,0,0,drop,sound,wonky,0,1,1,0,110-119
+104,135,crocodile,1,lime green,0,0,drop,none,member,0,0,0,0,130-139
+105,109,horse,1,brown,0,0,drop,none,spooky,0,0,1,0,100-109
+106,120,cat,1,green,0,0,drop,throw,member,0,0,0,0,120-129
+107,122,mouse,0,periwinkle,0,0,drop,trap,poetic,0,0,0,0,120-129
+108,106,bear,1,royal blue,1,orange,drop,lure,spooky,0,0,1,0,100-109
+109,73,deer,0,aqua,1,royal blue,drop,none,none,0,0,1,0,70-79
+110,80,deer,0,amber,0,0,trap,none,poetic,0,0,1,0,80-89
+111,101,cat,0,cartoonival blue,0,0,drop,none,none,0,0,1,0,100-109
+112,122,dog,1,brown,0,0,drop,throw,poetic,0,0,0,0,120-129
+113,117,bear,0,ice blue,0,0,lure,none,wonky,0,0,1,0,110-119
+114,120,cat,0,aqua,0,0,trap,sound,poetic,0,1,0,0,120-129
+115,114,mouse,0,steel blue,0,0,trap,none,wonky,0,0,1,0,110-119
+116,108,cat,0,black,0,0,trap,throw,none,0,0,1,0,100-109
+117,95,cat,1,royal blue,0,0,trap,none,none,0,0,1,0,90-99
+118,107,mouse,0,maroon,0,0,trap,throw,none,0,0,1,0,100-109
+119,79,rabbit,0,sea green,1,dark green,trap,lure,poetic,0,0,1,0,70-79
+120,84,dog,1,aqua,0,0,drop,none,none,0,0,1,0,80-89
+121,109,mouse,1,bright red,0,0,drop,none,spooky,0,0,1,0,100-109
+122,74,duck,1,royal blue,0,0,trap,throw,none,0,0,1,0,70-79
+123,116,rabbit,0,orange,0,0,trap,none,cartoonival,0,0,1,0,110-119
+124,115,cat,0,peach,0,0,trap,lure,poetic,0,0,1,0,110-119
+125,111,duck,0,yellow,0,0,drop,throw,none,0,0,1,0,110-119
+126,109,deer,0,light blue,0,0,trap,none,poetic,0,0,1,0,100-109
+127,88,deer,0,bright red,0,0,trap,lure,spooky,0,0,1,0,80-89
+128,138,cat,0,black,0,0,trap,throw,triumphant,1,0,0,1,130-139
+129,139,cat,1,black,0,0,trap,throw,triumphant,1,0,0,1,130-139
+130,113,dog,1,yellow,1,amber,drop,trap,poetic,1,0,1,0,110-119
+131,85,dog,0,aqua,0,0,drop,none,none,0,0,1,0,80-89
+132,92,rabbit,1,beige,0,0,drop,none,member,0,0,1,0,90-99
+133,82,deer,0,bubblegum,0,0,trap,none,none,0,0,1,0,80-89
+134,124,dog,1,spooky purple,0,0,drop,trap,boardwalk,0,0,0,0,120-129
+135,113,pig,0,lavender,0,0,trap,throw,poetic,0,0,1,0,110-119
+136,117,cat,0,brown,0,0,drop,lure,wonky,0,0,1,0,110-119
+137,106,dog,1,brown,0,0,trap,none,none,0,0,1,0,100-109
+138,88,cat,0,peach,1,bubblegum,drop,throw,poetic,0,0,1,0,80-89
+139,108,cat,1,dark green,0,0,drop,none,shivering,0,0,1,0,100-109
+140,67,cat,1,black,0,0,trap,sound,none,0,1,1,0,60-69
+141,106,cat,0,steel blue,0,0,trap,throw,poetic,0,0,1,0,100-109
+142,67,bear,1,crimson,0,0,trap,none,none,0,0,1,0,60-69
+143,110,dog,0,light blue,0,0,trap,drop,shivering,0,0,1,0,110-119
+144,95,crocodile,1,steel blue,0,0,trap,none,none,0,0,1,0,90-99
+145,120,dog,1,beige,1,coral,trap,throw,cartoonival,0,0,0,0,120-129
+146,115,cat,0,cream,1,crimson,drop,sound,none,1,1,1,0,110-119
+147,64,mouse,0,bubblegum,0,0,lure,none,none,0,0,1,0,60-69
+148,126,dog,0,aqua,1,purple,trap,squirt,none,0,0,0,0,120-129
+149,137,mouse,1,lavender,0,0,drop,squirt,triumphant,0,0,0,1,130-139
+150,105,bear,1,emerald,0,0,drop,none,poetic,0,0,1,0,100-109
+151,110,mouse,0,lavender,0,0,drop,throw,nautical,0,0,1,0,110-119
+152,115,dog,0,slate blue,0,0,drop,lure,silly,0,0,1,0,110-119
+153,63,mouse,1,blue,0,0,trap,none,none,0,0,1,0,60-69
+154,72,cat,0,black,0,0,drop,throw,nautical,0,0,1,0,70-79
+155,76,deer,0,brown,0,0,toon-up,none,none,0,0,1,0,70-79
+156,139,dog,1,bright red,0,0,trap,throw,zany,0,0,0,1,130-139
+157,137,deer,1,periwinkle,0,0,toon-up,sound,frostbite,0,1,0,1,130-139
+158,74,crocodile,0,peach,0,0,trap,none,poetic,0,0,1,0,70-79
+159,124,dog,0,bright red,1,purple,lure,throw,poetic,0,0,0,0,120-129
+160,111,dog,0,crimson,0,0,trap,sound,poetic,0,1,1,0,110-119
+161,91,crocodile,1,peach,0,0,drop,lure,none,0,0,1,0,90-99
+162,114,cat,1,black,0,0,trap,throw,practical,1,0,1,1,110-119
+163,120,dog,0,green,0,0,trap,throw,none,0,0,0,0,120-129
+164,122,dog,0,aqua,0,0,trap,throw,poetic,0,0,0,0,120-129
+165,116,deer,1,cartoonival blue,0,0,toon-up,lure,cartoonival,0,0,1,0,110-119
+166,79,crocodile,1,dark green,0,0,trap,none,member,0,0,1,0,70-79
+167,107,cat,0,amber,0,0,drop,none,member,0,0,1,0,100-109
+168,102,cat,1,blue,0,0,trap,throw,poetic,0,0,1,0,100-109
+169,107,mouse,0,red,0,0,drop,none,spooky,0,0,1,0,100-109
+170,107,dog,1,crimson,0,0,trap,none,none,0,0,1,0,100-109
+171,135,cat,1,periwinkle,1,pink,drop,sound,whimsical,0,1,0,1,130-139
+172,115,cat,0,periwinkle,1,pink,trap,throw,silly,0,0,1,0,110-119
+173,132,cat,0,bright red,0,0,drop,throw,whimsical,0,0,0,1,130-139
+174,105,bear,0,emerald,0,0,trap,toon-up,silly,0,0,1,0,100-109
+175,105,cat,0,purple,0,0,drop,lure,western,0,0,1,0,100-109
+176,66,mouse,0,light blue,0,0,trap,none,none,0,0,1,0,60-69
+177,98,rabbit,0,rose pink,0,0,lure,none,spooky,0,0,1,0,90-99
+178,119,cat,0,spooky purple,0,0,drop,throw,spooky,0,0,1,0,110-119
+179,111,horse,1,beige,0,0,trap,throw,shivering,0,0,1,0,110-119
+180,88,crocodile,1,lime green,0,0,trap,none,none,0,0,1,0,80-89
+181,123,cat,1,cartoonival pink,0,0,trap,throw,boardwalk,0,0,0,0,120-129
+182,114,rabbit,0,pink,0,0,drop,trap,poetic,0,0,1,0,110-119
+183,123,cat,0,ice blue,0,0,trap,throw,spooky,0,0,0,0,120-129
+184,113,monkey,1,royal blue,0,0,trap,sound,none,1,1,1,0,110-119
+185,84,cat,1,cartoonival pink,0,0,trap,none,western,1,0,1,0,80-89
+186,103,bear,0,mint green,0,0,trap,none,shivering,0,0,1,0,100-109
+187,105,cat,1,purple,1,royal blue,drop,none,cartoonival,0,0,1,0,100-109
+188,137,dog,1,teal,0,0,drop,sound,shivering,0,1,0,0,130-139
+189,139,dog,1,aqua,0,0,drop,sound,triumphant,0,1,0,1,130-139
+190,89,pig,1,dark green,0,0,drop,none,none,0,0,1,0,80-89
+191,85,pig,0,ice blue,0,0,drop,none,none,0,0,1,0,80-89
+192,103,pig,1,apricot,0,0,trap,none,none,0,0,1,0,100-109
+193,93,dog,1,blue,0,0,drop,sound,none,0,1,1,0,90-99
+194,113,monkey,1,apricot,0,0,toon-up,throw,spooky,0,0,1,0,110-119
+195,105,deer,0,crimson,1,bright red,trap,lure,action,0,0,1,1,100-109
+196,75,pig,0,aqua,0,0,drop,lure,none,0,0,1,0,70-79
+197,98,horse,1,yellow,0,0,trap,none,none,0,0,1,0,90-99
+198,113,dog,1,bright red,0,0,trap,throw,shivering,0,0,1,0,110-119
+199,117,cat,0,purple,1,royal blue,drop,throw,practical,0,0,1,1,110-119
+200,64,cat,1,light blue,1,royal blue,drop,sound,cartoonival,0,1,1,0,60-69
+201,64,mouse,0,ice blue,0,0,drop,none,wonky,0,0,1,0,60-69
+202,106,crocodile,1,crimson,0,0,trap,none,shivering,0,0,1,0,100-109
+203,82,cat,0,teal,0,0,sound,none,none,0,0,1,0,80-89
+204,121,rabbit,1,orange,0,0,trap,sound,poetic,0,1,0,0,120-129
+205,117,dog,1,tan,0,0,drop,sound,boardwalk,0,1,1,0,110-119
+206,106,dog,1,emerald,0,0,trap,none,poetic,0,0,1,0,100-109
+207,123,dog,1,ice blue,0,0,drop,trap,whimsical,0,0,0,1,120-129
+208,108,bear,1,bright red,0,0,trap,throw,none,0,0,1,0,100-109
+209,96,rabbit,0,periwinkle,0,0,drop,none,wonky,0,0,1,0,90-99
+210,89,rabbit,1,cream,0,0,trap,throw,shivering,0,0,1,0,80-89
+211,105,cat,0,apricot,0,0,drop,lure,none,0,0,1,0,100-109
+212,76,deer,0,mint green,1,emerald,trap,none,none,0,0,1,0,70-79
+213,103,duck,1,dark green,0,0,drop,throw,shivering,0,0,1,0,100-109
+214,62,mouse,1,aqua,0,0,trap,none,none,0,0,1,0,60-69
+215,74,cat,1,aqua,0,0,drop,sound,spooky,0,1,1,0,70-79
+216,116,dog,1,aqua,0,0,drop,trap,nautical,0,0,1,0,110-119
+217,106,deer,0,spooky purple,0,0,drop,toon-up,cartoonival,0,0,1,0,100-109
+218,99,monkey,0,sienna,0,0,drop,trap,shivering,0,0,1,0,90-99
+219,80,mouse,1,steel blue,0,0,drop,none,spooky,0,0,1,0,80-89
+220,95,cat,0,light blue,0,0,drop,none,none,0,0,1,0,90-99
+221,91,dog,1,apricot,0,0,drop,none,cartoonival,0,0,1,0,90-99
+222,77,duck,1,crimson,0,0,drop,throw,none,0,0,1,0,70-79
+223,117,cat,0,spooky purple,0,0,drop,throw,shivering,0,0,1,0,110-119
+224,84,monkey,0,sea green,0,0,trap,none,none,0,0,1,0,80-89
+225,122,dog,1,purple,0,0,drop,trap,boardwalk,0,0,0,0,120-129
+226,100,cat,0,peach,0,0,toon-up,none,none,0,0,1,0,100-109
+227,105,duck,1,blue,0,0,trap,none,spooky,0,0,1,0,100-109
+228,105,duck,0,aqua,0,0,trap,none,poetic,0,0,1,0,100-109
+229,126,cat,0,orange,1,citrine,trap,throw,cartoonival,0,0,0,0,120-129
+230,127,dog,0,orange,1,citrine,drop,throw,cartoonival,0,0,0,0,120-129
+231,105,duck,1,blue,0,0,trap,throw,none,0,0,1,0,100-109
+232,111,mouse,0,blue,0,0,toon-up,throw,member,0,0,1,0,110-119
+233,107,monkey,1,periwinkle,0,0,trap,none,none,0,0,1,0,100-109
+234,99,crocodile,1,steel blue,0,0,lure,none,poetic,0,0,1,0,90-99
+235,86,cat,0,rose pink,0,0,trap,none,poetic,0,0,1,0,80-89
+236,93,monkey,1,bright red,0,0,lure,none,none,0,0,1,0,90-99
+237,122,crocodile,0,dark green,0,0,drop,sound,poetic,0,1,0,0,120-129
+238,85,monkey,1,mint green,1,crimson,lure,none,poetic,0,0,1,0,80-89
+239,104,duck,0,bubblegum,0,0,trap,none,wonky,0,0,1,0,100-109
+240,99,duck,1,crimson,0,0,drop,none,shivering,0,0,1,0,90-99
+241,106,bear,1,lime green,0,0,trap,none,nautical,0,0,1,0,100-109
+242,111,pig,1,coral,0,0,drop,lure,none,0,0,1,0,110-119
+243,127,duck,1,amber,0,0,drop,throw,none,0,0,0,0,120-129
+244,121,dog,0,aqua,0,0,sound,lure,western,0,0,0,0,120-129
+245,107,cat,0,peach,0,0,lure,throw,boardwalk,0,0,1,0,100-109
+246,104,duck,1,aqua,0,0,drop,throw,poetic,0,0,1,0,100-109
+247,85,bear,0,peach,0,0,drop,none,poetic,0,0,1,0,80-89
+248,134,dog,1,cartoonival blue,0,0,trap,throw,wonky,0,0,0,0,130-139
+249,113,cat,1,black,0,0,trap,throw,spooky,0,0,1,0,110-119
+250,113,cat,0,black,0,0,toon-up,none,spooky,0,0,1,0,110-119
+251,62,cat,1,black,0,0,trap,sound,none,0,1,1,0,60-69
+252,64,duck,1,teal,1,emerald,trap,none,none,0,0,1,0,60-69
+253,110,deer,1,apricot,1,dark green,trap,throw,poetic,0,0,1,0,110-119
+254,118,cat,0,periwinkle,0,0,trap,throw,practical,0,0,1,1,110-119
+255,104,duck,0,ice blue,0,0,trap,none,poetic,0,0,1,0,100-109
+256,128,dog,1,royal blue,0,0,lure,none,silly,0,0,0,0,120-129
+257,110,dog,1,aqua,0,0,drop,none,boardwalk,0,0,1,0,110-119
+258,82,dog,1,lime green,1,rose pink,toon-up,none,none,0,0,1,0,80-89
+259,86,cat,1,sea green,0,0,drop,none,none,0,0,1,0,80-89
+260,105,duck,1,ice blue,0,0,drop,throw,action,0,0,1,1,100-109
+261,119,cat,1,cartoonival blue,0,0,drop,squirt,shivering,0,0,1,0,110-119
+262,117,monkey,1,cartoonival blue,0,0,trap,throw,boardwalk,0,0,1,0,110-119
+263,112,cat,0,steel blue,0,0,drop,toon-up,none,0,0,1,0,110-119
+264,110,deer,0,lavender,1,purple,drop,sound,practical,0,1,1,1,110-119
+265,101,bear,0,spooky purple,0,0,drop,none,cartoonival,0,0,1,0,100-109
+266,100,duck,0,periwinkle,0,0,trap,lure,none,0,0,1,0,100-109
+267,105,duck,1,royal blue,1,bubblegum,lure,none,none,0,0,1,0,100-109
+268,105,cat,0,royal blue,0,0,drop,throw,none,0,0,1,0,100-109
+269,109,horse,1,blue,0,0,drop,throw,none,0,0,1,0,100-109
+270,75,mouse,0,bubblegum,0,0,trap,none,spooky,0,0,1,0,70-79
+271,87,duck,1,sienna,0,0,trap,lure,none,0,0,1,0,80-89
+272,62,cat,1,black,0,0,trap,sound,none,0,1,1,0,60-69
+273,62,cat,1,black,0,0,trap,sound,none,0,1,1,0,60-69
+274,67,deer,1,sea green,0,0,toon-up,none,none,0,0,1,0,60-69
+275,139,cat,0,black,0,0,trap,throw,fancy,0,0,0,1,130-139
+276,105,rabbit,1,royal blue,0,0,trap,throw,shivering,0,0,1,0,100-109
+277,139,cat,1,teal,1,purple,lure,sound,fancy,0,1,0,1,130-139
+278,102,monkey,0,amber,0,0,trap,none,spooky,0,0,1,0,100-109
+279,93,deer,0,coral,0,0,drop,none,wonky,0,0,1,0,90-99
+280,65,monkey,0,brown,0,0,trap,none,shivering,0,0,1,0,60-69
+281,139,dog,1,maroon,0,0,trap,throw,shivering,0,0,0,0,130-139
+282,105,cat,0,pink,0,0,drop,throw,none,0,0,1,0,100-109
+283,89,deer,0,peach,0,0,drop,none,poetic,0,0,1,0,80-89
+284,88,rabbit,1,bright red,0,0,trap,none,shivering,0,0,1,0,80-89
+285,107,cat,0,cartoonival pink,0,0,drop,none,western,0,0,1,0,100-109
+286,82,cat,0,pink,0,0,drop,none,poetic,0,0,1,0,80-89
+287,111,rabbit,0,slate blue,0,0,drop,throw,poetic,0,0,1,0,110-119
+288,67,bear,0,white,0,0,trap,none,member,0,0,1,0,60-69
+289,104,mouse,0,ice blue,0,0,trap,lure,nautical,0,0,1,0,100-109
+290,111,dog,1,bright red,0,0,trap,sound,spooky,0,1,1,0,110-119
+291,120,dog,1,cartoonival blue,0,0,drop,throw,cartoonival,0,0,0,0,120-129
+292,108,dog,0,cartoonival pink,0,0,drop,trap,practical,0,0,1,1,100-109
+293,77,cat,0,cartoonival blue,0,0,drop,throw,poetic,0,0,1,0,70-79
+294,115,rabbit,1,amber,1,yellow,drop,none,poetic,0,0,1,0,110-119
+295,93,deer,1,coral,0,0,lure,none,none,0,0,1,0,90-99
+296,116,mouse,0,red,0,0,trap,none,member,0,0,1,0,110-119
+297,122,dog,1,ice blue,1,slate blue,toon-up,sound,cartoonival,0,1,0,0,120-129
+298,108,crocodile,1,mint green,1,teal,drop,none,silly,1,0,1,0,100-109
+299,126,monkey,1,yellow,1,slate blue,trap,none,cartoonival,1,0,0,0,120-129
+300,126,deer,0,ice blue,0,0,trap,throw,none,0,0,0,0,120-129
+301,118,cat,0,beige,0,0,trap,throw,member,0,0,1,0,110-119
+302,69,cat,1,black,0,0,sound,none,wonky,1,0,1,0,60-69
+303,99,cat,0,cartoonival pink,0,0,drop,none,cartoonival,0,0,1,0,90-99
+304,127,cat,1,aqua,0,0,drop,throw,whimsical,0,0,0,1,120-129
+305,87,pig,0,purple,0,0,drop,none,none,0,0,1,0,80-89
+306,102,cat,0,peach,0,0,drop,none,none,0,0,1,0,100-109
+307,104,dog,1,aqua,0,0,trap,none,western,0,0,1,0,100-109
+308,108,cat,0,black,0,0,trap,sound,none,0,1,1,0,100-109
+309,105,crocodile,1,dark green,0,0,trap,throw,shivering,0,0,1,0,100-109
+310,75,cat,1,black,0,0,drop,none,shivering,0,0,1,0,70-79
+311,83,cat,1,beige,1,royal blue,trap,sound,member,0,1,1,0,80-89
+312,106,rabbit,0,spooky purple,0,0,drop,none,poetic,0,0,1,0,100-109
+313,138,dog,1,aqua,0,0,trap,sound,triumphant,0,1,0,1,130-139
+314,138,mouse,1,bright red,0,0,trap,lure,western,0,0,0,0,130-139
+315,104,cat,0,periwinkle,0,0,trap,none,spooky,0,0,1,0,100-109
+316,134,cat,1,black,0,0,toon-up,sound,triumphant,0,1,0,1,130-139
+317,129,rabbit,0,rose pink,0,0,trap,throw,poetic,0,0,0,0,120-129
+318,118,pig,0,tan,0,0,lure,throw,boardwalk,0,0,1,0,110-119
+319,68,duck,0,yellow,0,0,trap,none,none,0,0,1,0,60-69
+320,99,rabbit,1,peach,0,0,trap,none,poetic,0,0,1,0,90-99
+321,105,cat,0,aqua,0,0,trap,throw,wonky,0,0,1,0,100-109
+322,88,dog,1,coral,0,0,drop,none,none,0,0,1,0,80-89
+323,112,deer,1,tan,0,0,trap,throw,poetic,0,0,1,0,110-119
+324,102,horse,0,beige,0,0,lure,sound,poetic,0,1,1,0,100-109
+325,139,cat,1,sea green,0,0,drop,trap,practical,0,0,0,1,130-139
+326,79,cat,0,maroon,0,0,trap,lure,member,0,0,1,0,70-79
+327,66,cat,0,tan,0,0,trap,none,none,0,0,1,0,60-69
+328,80,monkey,1,lime green,0,0,drop,none,none,0,0,1,0,80-89
+329,98,bear,1,aqua,1,emerald,toon-up,throw,silly,0,0,1,0,90-99
+330,106,rabbit,0,light blue,0,0,trap,throw,member,0,0,1,0,100-109
+331,93,cat,0,coral,0,0,drop,none,shivering,0,0,1,0,90-99
+332,96,dog,1,aqua,0,0,trap,none,poetic,0,0,1,0,90-99
+333,66,mouse,1,bright red,0,0,drop,throw,poetic,0,0,1,0,60-69
+334,88,mouse,0,cartoonival pink,0,0,trap,lure,member,0,0,1,0,80-89
+335,73,deer,0,ice blue,0,0,trap,none,poetic,0,0,1,0,70-79
+336,107,mouse,1,dark green,0,0,drop,trap,poetic,0,0,1,0,100-109
+337,87,dog,1,steel blue,0,0,drop,none,none,0,0,1,0,80-89
+338,80,mouse,0,yellow,0,0,trap,sound,spooky,0,1,1,0,80-89
+339,74,duck,0,amber,0,0,trap,none,none,0,0,1,0,70-79
+340,124,duck,0,peach,0,0,trap,throw,practical,0,0,0,1,120-129
+341,122,cat,0,black,0,0,trap,throw,poetic,0,0,0,0,120-129
+342,112,duck,0,yellow,0,0,trap,none,poetic,0,0,1,0,110-119
+343,102,cat,0,sea green,0,0,drop,none,shivering,0,0,1,0,100-109
+344,113,bear,0,crimson,0,0,trap,none,none,0,0,1,0,110-119
+345,77,mouse,1,green,0,0,trap,none,member,0,0,1,0,70-79
+346,83,cat,0,black,0,0,drop,sound,shivering,0,1,1,0,80-89
+347,111,rabbit,0,slate blue,0,0,drop,throw,poetic,0,0,1,0,110-119
+348,109,rabbit,0,bubblegum,0,0,drop,throw,spooky,0,0,1,0,100-109
+349,78,bear,0,purple,0,0,trap,none,poetic,0,0,1,0,70-79
+350,97,crocodile,1,dark green,0,0,trap,lure,member,0,0,1,0,90-99
+351,71,cat,0,teal,0,0,drop,none,shivering,0,0,1,0,70-79
+352,116,dog,0,cream,0,0,trap,lure,member,0,0,1,0,110-119
+353,97,deer,0,beige,0,0,drop,throw,shivering,0,0,1,0,90-99
+354,131,monkey,1,cartoonival pink,0,0,drop,throw,poetic,0,0,0,0,130-139
+355,109,dog,1,spooky purple,0,0,trap,toon-up,spooky,0,0,1,0,100-109
+356,104,cat,0,green,1,lime green,drop,lure,none,0,0,1,0,100-109
+357,77,deer,0,ice blue,0,0,lure,sound,shivering,0,1,1,0,70-79
+358,136,monkey,1,cartoonival blue,0,0,toon-up,sound,boardwalk,0,1,0,0,130-139
+359,68,cat,1,crimson,0,0,drop,sound,poetic,0,1,1,0,60-69
+360,131,cat,1,royal blue,0,0,lure,throw,poetic,0,0,0,0,130-139
+361,130,cat,0,maroon,1,peach,trap,throw,fancy,0,0,0,1,130-139
+362,104,cat,1,crimson,0,0,trap,lure,none,0,0,1,0,100-109
+363,139,cat,1,slate blue,1,purple,trap,sound,action,0,1,0,1,130-139
+364,107,mouse,0,orange,1,coral,drop,throw,member,0,0,1,0,100-109
+365,75,deer,0,tan,0,0,trap,none,poetic,0,0,1,0,70-79
+366,82,monkey,1,spooky purple,0,0,lure,none,silly,0,0,1,0,80-89
+367,110,deer,0,maroon,0,0,trap,lure,boardwalk,0,0,1,0,110-119
+368,114,mouse,0,spooky purple,0,0,trap,drop,action,0,0,1,1,110-119
+369,139,cat,0,teal,1,ice blue,drop,sound,poetic,0,1,0,0,130-139
+370,113,cat,0,peach,0,0,trap,throw,cartoonival,0,0,1,0,110-119
+371,79,duck,0,blue,1,periwinkle,trap,none,none,0,0,1,0,70-79
+372,71,deer,0,mint green,0,0,trap,toon-up,shivering,0,0,1,0,70-79
+373,99,cat,0,cartoonival pink,0,0,drop,lure,cartoonival,0,0,1,0,90-99
+374,113,mouse,0,coral,0,0,drop,throw,none,0,0,1,0,110-119
+375,109,horse,1,brown,0,0,drop,none,spooky,0,0,1,0,100-109
+376,67,monkey,1,sienna,0,0,drop,none,none,0,0,1,0,60-69
+377,83,mouse,1,bright red,0,0,trap,throw,none,0,0,1,0,80-89
+378,114,dog,1,coral,0,0,drop,none,poetic,0,0,1,0,110-119
+379,122,cat,0,cartoonival pink,0,0,trap,throw,spooky,0,0,0,0,120-129
+380,123,mouse,0,pink,0,0,drop,trap,poetic,0,0,0,0,120-129
+381,77,monkey,0,rose pink,0,0,trap,none,none,0,0,1,0,70-79
+382,105,duck,0,cream,0,0,trap,none,shivering,0,0,1,0,100-109
+383,67,monkey,1,royal blue,0,0,trap,none,none,0,0,1,0,60-69
+384,132,cat,1,royal blue,0,0,trap,throw,whimsical,0,0,0,1,130-139
+385,76,dog,1,lime green,0,0,drop,none,boardwalk,0,0,1,0,70-79
+386,100,mouse,0,tan,0,0,trap,none,boardwalk,0,0,1,0,100-109
+387,107,mouse,1,royal blue,0,0,drop,throw,cartoonival,0,0,1,0,100-109
+388,122,crocodile,1,cartoonival blue,0,0,lure,throw,cartoonival,1,0,0,0,120-129
+389,75,dog,1,steel blue,0,0,trap,toon-up,silly,0,0,1,0,70-79
+390,107,monkey,0,ice blue,0,0,trap,throw,member,0,0,1,0,100-109
+391,105,dog,0,spooky purple,0,0,trap,sound,poetic,0,1,1,0,100-109
+392,113,cat,1,black,0,0,trap,throw,nautical,0,0,1,0,110-119
+393,139,monkey,0,blue,0,0,drop,trap,silly,0,0,0,0,130-139
+394,114,duck,1,slate blue,0,0,drop,lure,wonky,0,0,1,0,110-119
+395,74,dog,0,cream,0,0,lure,none,poetic,0,0,1,0,70-79
+396,139,dog,0,lavender,1,peach,trap,sound,fancy,0,1,0,1,130-139
+397,70,deer,0,rose pink,0,0,trap,none,member,0,0,1,0,70-79
+398,125,dog,1,cartoonival blue,0,0,drop,sound,zany,0,1,0,1,120-129
+399,64,rabbit,0,beige,0,0,toon-up,throw,none,0,0,1,0,60-69
+400,76,bear,0,white,0,0,drop,none,none,0,0,1,0,70-79
+401,139,cat,0,black,0,0,sound,squirt,action,0,0,0,1,130-139
+402,94,cat,0,black,0,0,drop,throw,none,0,0,1,0,90-99
+403,122,cat,1,slate blue,0,0,toon-up,none,whimsical,0,0,0,1,120-129
+404,115,cat,0,slate blue,0,0,toon-up,none,whimsical,0,0,1,1,110-119
+405,85,deer,1,crimson,0,0,toon-up,none,none,0,0,1,0,80-89
+406,132,monkey,0,brown,0,0,trap,drop,shivering,0,0,0,0,130-139
+407,96,cat,1,royal blue,0,0,trap,none,spooky,0,0,1,0,90-99
+408,86,dog,1,aqua,0,0,trap,none,poetic,0,0,1,0,80-89
+409,117,deer,0,bubblegum,0,0,drop,throw,poetic,0,0,1,0,110-119
+410,113,mouse,1,coral,0,0,trap,throw,zany,0,0,1,1,110-119
+411,112,cat,0,crimson,1,royal blue,toon-up,sound,shivering,0,1,1,0,110-119
+412,107,mouse,0,orange,0,0,drop,sound,shivering,0,1,1,0,100-109
+413,134,cat,0,spooky purple,0,0,trap,throw,practical,1,0,0,1,130-139
+414,116,cat,0,tan,0,0,trap,throw,none,0,0,1,0,110-119
+415,103,cat,0,royal blue,0,0,drop,throw,poetic,0,0,1,0,100-109
+416,118,mouse,0,peach,0,0,trap,throw,poetic,0,0,1,0,110-119
+417,108,cat,0,aqua,0,0,trap,none,shivering,0,0,1,0,100-109
+418,103,dog,1,yellow,1,orange,trap,throw,member,0,0,1,0,100-109
+419,102,bear,1,cartoonival pink,0,0,drop,toon-up,spooky,0,0,1,0,100-109
+420,113,cat,0,purple,0,0,trap,lure,none,0,0,1,0,110-119
+421,114,cat,0,black,0,0,trap,drop,shivering,0,0,1,0,110-119
+422,104,crocodile,0,light blue,0,0,trap,none,none,0,0,1,0,100-109
+423,124,cat,1,sienna,0,0,drop,trap,nautical,0,0,0,0,120-129
+424,86,crocodile,1,sea green,0,0,trap,none,none,0,0,1,0,80-89
+425,123,dog,0,peach,0,0,drop,throw,silly,0,0,0,0,120-129
+426,103,mouse,0,periwinkle,0,0,drop,none,poetic,0,0,1,0,100-109
+427,63,mouse,1,royal blue,0,0,trap,none,none,0,0,1,0,60-69
+428,121,mouse,1,crimson,0,0,trap,none,spooky,0,0,0,0,120-129
+429,76,dog,0,apricot,0,0,drop,throw,poetic,0,0,1,0,70-79
+430,137,dog,1,spooky purple,0,0,drop,sound,cartoonival,0,1,0,0,130-139
+431,85,cat,0,periwinkle,0,0,drop,none,none,0,0,1,0,80-89
+432,83,cat,0,cartoonival pink,0,0,trap,none,cartoonival,0,0,1,0,80-89
+433,83,cat,1,sea green,0,0,drop,lure,none,0,0,1,0,80-89
+434,107,cat,0,cream,1,ice blue,trap,lure,boardwalk,0,0,1,0,100-109
+435,104,cat,1,amber,0,0,trap,throw,poetic,0,0,1,0,100-109
+436,80,dog,0,cream,0,0,trap,lure,poetic,0,0,1,0,80-89
+437,63,cat,0,rose pink,0,0,drop,none,none,0,0,1,0,60-69
+438,101,cat,0,black,0,0,toon-up,sound,none,1,1,1,0,100-109
+439,121,deer,0,spooky purple,0,0,trap,lure,shivering,0,0,0,0,120-129
+440,99,rabbit,0,light blue,0,0,trap,none,none,0,0,1,0,90-99
+441,96,mouse,1,green,0,0,drop,throw,none,0,0,1,0,90-99
+442,78,pig,1,bubblegum,0,0,trap,none,none,0,0,1,0,70-79
+443,103,deer,0,pink,0,0,trap,none,none,0,0,1,0,100-109
+444,93,monkey,0,sea green,0,0,trap,none,none,0,0,1,0,90-99
+445,104,cat,0,coral,0,0,trap,none,boardwalk,0,0,1,0,100-109
+446,101,cat,0,aqua,0,0,toon-up,none,poetic,0,0,1,0,100-109
+447,108,cat,1,steel blue,0,0,toon-up,trap,boardwalk,0,0,1,0,100-109
+448,115,pig,1,bright red,0,0,trap,none,spooky,0,0,1,0,110-119
+449,64,cat,0,lavender,0,0,trap,throw,spooky,0,0,1,0,60-69
+450,118,bear,1,ice blue,0,0,trap,throw,none,0,0,1,0,110-119
+451,137,cat,1,spooky purple,0,0,toon-up,sound,triumphant,0,1,0,1,130-139
+452,125,crocodile,1,spooky purple,0,0,trap,none,wonky,0,0,0,0,120-129
+453,87,bear,1,white,0,0,toon-up,throw,none,0,0,1,0,80-89
+454,130,duck,1,yellow,0,0,trap,squirt,poetic,0,0,0,0,130-139
+455,87,monkey,1,emerald,0,0,trap,none,member,0,0,1,0,80-89
+456,113,duck,0,crimson,0,0,trap,lure,wonky,0,0,1,0,110-119
+457,95,mouse,1,purple,0,0,drop,squirt,none,0,0,1,0,90-99
+458,85,bear,1,amber,0,0,trap,none,member,0,0,1,0,80-89
+459,101,rabbit,0,cartoonival pink,0,0,trap,none,member,0,0,1,0,100-109
+460,109,cat,1,bright red,0,0,drop,sound,western,0,1,1,0,100-109
+461,107,cat,1,yellow,0,0,trap,none,poetic,0,0,1,0,100-109
+462,74,cat,0,mint green,0,0,drop,none,none,0,0,1,0,70-79
+463,73,cat,1,sea green,0,0,trap,none,none,0,0,1,0,70-79
+464,64,crocodile,0,aqua,0,0,trap,none,none,0,0,1,0,60-69
+465,105,duck,1,emerald,0,0,drop,none,spooky,0,0,1,0,100-109
+466,79,duck,0,sea green,0,0,lure,none,none,0,0,1,0,70-79
+467,77,rabbit,1,lavender,0,0,drop,none,shivering,0,0,1,0,70-79
+468,118,dog,0,light blue,0,0,trap,throw,poetic,0,0,1,0,110-119
+469,103,rabbit,1,blue,0,0,drop,none,none,0,0,1,0,100-109
+470,97,cat,1,blue,0,0,drop,throw,none,0,0,1,0,90-99
+471,110,rabbit,1,ice blue,0,0,trap,throw,poetic,0,0,1,0,110-119
+472,70,rabbit,0,blue,0,0,trap,none,none,1,0,1,0,70-79
+473,103,dog,1,green,0,0,trap,none,boardwalk,0,0,1,0,100-109
+474,83,rabbit,0,pink,0,0,drop,toon-up,shivering,0,0,1,0,80-89
+475,117,mouse,1,royal blue,0,0,drop,trap,western,1,0,1,0,110-119
+476,103,rabbit,0,amber,0,0,drop,toon-up,none,0,0,1,0,100-109
+477,106,bear,0,sienna,0,0,trap,none,poetic,0,0,1,0,100-109
+478,103,mouse,0,blue,0,0,drop,none,none,0,0,1,0,100-109
+479,121,dog,1,blue,0,0,drop,throw,fancy,0,0,0,1,120-129
+480,106,cat,0,black,0,0,trap,none,none,0,0,1,0,100-109
+481,106,deer,0,steel blue,0,0,drop,throw,none,0,0,1,0,100-109
+482,111,bear,0,royal blue,0,0,drop,throw,wonky,0,0,1,0,110-119
+483,82,mouse,0,bright red,0,0,toon-up,none,none,0,0,1,0,80-89
+484,76,bear,1,royal blue,0,0,drop,none,none,0,0,1,0,70-79
+485,110,deer,1,brown,0,0,drop,throw,boardwalk,0,0,1,0,110-119
+486,105,dog,1,sea green,0,0,trap,sound,shivering,0,1,1,0,100-109
+487,102,crocodile,1,emerald,0,0,trap,none,member,0,0,1,0,100-109
+488,139,mouse,0,brown,0,0,drop,throw,silly,0,0,0,0,130-139
+489,137,dog,1,dark green,0,0,drop,throw,practical,0,0,0,1,130-139
+490,111,cat,0,steel blue,0,0,sound,none,whimsical,0,0,1,1,110-119
+491,101,deer,0,teal,0,0,trap,none,poetic,0,0,1,0,100-109
+492,119,bear,1,brown,0,0,drop,none,boardwalk,0,0,1,0,110-119
+493,115,rabbit,0,lime green,0,0,drop,throw,spooky,0,0,1,0,110-119
+494,122,rabbit,1,maroon,0,0,sound,throw,whimsical,0,0,0,1,120-129
+495,73,mouse,0,bubblegum,0,0,lure,none,none,0,0,1,0,70-79
+496,108,monkey,1,steel blue,0,0,drop,none,spooky,0,0,1,0,100-109
+497,96,mouse,1,green,0,0,drop,throw,none,0,0,1,0,90-99
+498,102,duck,0,periwinkle,1,aqua,drop,none,none,0,0,1,0,100-109
+499,139,monkey,1,spooky purple,0,0,trap,throw,silly,0,0,0,0,130-139
+500,84,dog,0,cream,1,maroon,drop,none,silly,0,0,1,0,80-89
+501,99,cat,0,maroon,0,0,drop,none,spooky,0,0,1,0,90-99
+502,72,cat,0,black,0,0,sound,none,none,0,0,1,0,70-79
+503,113,deer,0,crimson,0,0,drop,throw,member,0,0,1,0,110-119
+504,105,cat,1,spooky purple,0,0,drop,none,cartoonival,0,0,1,0,100-109
+505,79,cat,0,crimson,0,0,trap,none,shivering,0,0,1,0,70-79
+506,73,cat,0,teal,0,0,trap,none,none,0,0,1,0,70-79
+507,103,deer,0,crimson,0,0,trap,none,nautical,1,0,1,0,100-109
+508,113,cat,0,mint green,0,0,trap,drop,silly,0,0,1,0,110-119
+509,112,rabbit,1,aqua,0,0,trap,drop,spooky,0,0,1,0,110-119
+510,110,mouse,1,purple,0,0,trap,sound,boardwalk,0,1,1,0,110-119
+511,109,deer,0,beige,0,0,trap,none,silly,0,0,1,0,100-109
+512,119,deer,0,light blue,0,0,trap,throw,cartoonival,0,0,1,0,110-119
+513,115,cat,1,lime green,1,steel blue,trap,none,fancy,1,0,1,1,110-119
+514,133,bear,1,sienna,1,lime green,drop,sound,poetic,1,1,0,0,130-139
+515,64,duck,0,rose pink,0,0,drop,none,member,0,0,1,0,60-69
+516,105,cat,0,beige,0,0,trap,none,poetic,0,0,1,0,100-109
+517,74,cat,1,emerald,0,0,sound,none,spooky,0,0,1,0,70-79
+518,121,cat,0,apricot,0,0,drop,throw,poetic,0,0,0,0,120-129
+519,103,cat,0,beige,0,0,trap,none,none,0,0,1,0,100-109
+520,105,bear,1,crimson,0,0,trap,none,shivering,0,0,1,0,100-109
+521,95,monkey,1,amber,1,green,trap,none,none,0,0,1,0,90-99
+522,138,bear,1,emerald,0,0,trap,throw,none,0,0,0,0,130-139
+523,111,duck,1,spooky purple,0,0,drop,trap,spooky,0,0,1,0,110-119
+524,74,horse,0,sea green,0,0,trap,none,member,0,0,1,0,70-79
+525,84,bear,0,green,1,teal,trap,none,none,0,0,1,0,80-89
+526,95,crocodile,1,lime green,0,0,trap,none,none,0,0,1,0,90-99
+527,123,duck,1,sienna,0,0,drop,throw,none,0,0,0,0,120-129
+528,120,cat,0,black,0,0,trap,none,spooky,0,0,0,0,120-129
+529,93,dog,0,aqua,0,0,trap,lure,none,0,0,1,0,90-99
+530,67,cat,0,black,0,0,drop,sound,boardwalk,0,1,1,0,60-69
+531,113,dog,1,aqua,0,0,drop,sound,none,0,1,1,0,110-119
+532,108,deer,0,sea green,0,0,trap,none,shivering,0,0,1,0,100-109
+533,114,cat,0,purple,0,0,toon-up,sound,silly,0,1,1,0,110-119
+534,88,cat,0,black,0,0,trap,lure,spooky,0,0,1,0,80-89
+535,74,monkey,0,tan,0,0,drop,throw,poetic,0,0,1,0,70-79
+536,116,mouse,0,red,0,0,trap,throw,member,0,0,1,0,110-119
+537,139,mouse,1,yellow,1,aqua,lure,trap,whimsical,0,0,0,1,130-139
+538,69,deer,1,ice blue,0,0,trap,throw,none,0,0,1,0,60-69
+539,120,deer,0,cartoonival pink,0,0,trap,throw,silly,0,0,0,0,120-129
+540,125,cat,0,spooky purple,0,0,drop,throw,spooky,0,0,0,0,120-129
+541,68,cat,0,brown,0,0,drop,none,none,0,0,1,0,60-69
+542,117,dog,1,royal blue,0,0,drop,trap,western,0,0,1,0,110-119
+543,78,pig,0,pink,0,0,drop,none,none,0,0,1,0,70-79
+544,86,crocodile,1,aqua,0,0,drop,throw,member,0,0,1,0,80-89
+545,69,deer,0,peach,0,0,lure,none,none,0,0,1,0,60-69
+546,72,duck,0,crimson,0,0,drop,sound,none,1,1,1,0,70-79
+547,63,deer,1,ice blue,0,0,drop,none,none,0,0,1,0,60-69
+548,77,horse,0,bubblegum,0,0,lure,none,poetic,0,0,1,0,70-79
+549,63,dog,1,amber,0,0,drop,none,none,0,0,1,0,60-69
+550,65,duck,1,yellow,0,0,trap,none,none,0,0,1,0,60-69
+551,88,pig,1,blue,0,0,trap,none,poetic,0,0,1,0,80-89
+552,77,mouse,1,steel blue,0,0,trap,none,none,0,0,1,0,70-79
+553,68,mouse,0,periwinkle,0,0,lure,throw,spooky,0,0,1,0,60-69
+554,68,pig,1,periwinkle,0,0,trap,throw,nautical,0,0,1,0,60-69
+555,123,cat,0,black,0,0,trap,none,poetic,1,0,0,0,120-129
+556,68,crocodile,1,emerald,0,0,toon-up,throw,shivering,0,0,1,0,60-69
+557,85,cat,1,black,0,0,drop,throw,none,0,0,1,0,80-89
+558,110,rabbit,0,lavender,0,0,drop,throw,none,0,0,1,0,110-119
+559,72,monkey,0,blue,0,0,toon-up,drop,shivering,0,0,1,0,70-79
+560,103,cat,1,steel blue,0,0,drop,none,shivering,0,0,1,0,100-109
+561,122,rabbit,0,light blue,0,0,trap,throw,western,0,0,0,0,120-129
+562,139,cat,1,green,0,0,drop,trap,triumphant,0,0,0,1,130-139
+563,107,mouse,1,cartoonival blue,0,0,trap,none,member,0,0,1,0,100-109
+564,95,deer,0,ice blue,0,0,trap,none,poetic,0,0,1,0,90-99
+565,104,monkey,1,royal blue,0,0,trap,none,nautical,0,0,1,0,100-109
+566,123,crocodile,1,royal blue,0,0,trap,throw,none,0,0,0,0,120-129
+567,83,pig,0,crimson,0,0,drop,none,none,1,0,1,0,80-89
+568,139,deer,0,pink,1,light blue,toon-up,sound,zany,0,1,0,1,130-139
+569,126,mouse,1,cartoonival blue,0,0,drop,throw,none,0,0,0,0,120-129
+570,139,dog,1,periwinkle,0,0,drop,sound,practical,0,1,0,1,130-139
+571,83,dog,1,dark green,0,0,trap,drop,wonky,0,0,1,0,80-89
+572,108,monkey,0,coral,0,0,trap,lure,poetic,0,0,1,0,100-109
+573,73,dog,1,periwinkle,0,0,drop,none,member,0,0,1,0,70-79
+574,132,cat,0,orange,1,crimson,trap,throw,wonky,0,0,0,0,130-139
+575,103,cat,1,black,0,0,sound,none,none,0,0,1,0,100-109
+576,139,duck,0,periwinkle,0,0,drop,throw,triumphant,0,0,0,1,130-139
+577,128,cat,1,black,0,0,drop,none,boardwalk,0,0,0,0,120-129
+578,122,deer,1,brown,0,0,trap,none,cartoonival,0,0,0,0,120-129
+579,116,cat,1,black,0,0,trap,throw,poetic,0,0,1,0,110-119
+580,83,cat,0,periwinkle,0,0,trap,lure,shivering,0,0,1,0,80-89
+581,102,mouse,0,pink,0,0,trap,none,shivering,0,0,1,0,100-109
+582,93,mouse,1,brown,0,0,trap,throw,none,0,0,1,0,90-99
+583,125,cat,0,black,0,0,trap,throw,none,0,0,0,0,120-129
+584,91,pig,0,crimson,0,0,drop,none,none,0,0,1,0,90-99
+585,79,crocodile,0,dark green,0,0,drop,lure,poetic,0,0,1,0,70-79
+586,76,deer,0,brown,0,0,trap,throw,member,0,0,1,0,70-79
+587,139,cat,1,periwinkle,0,0,trap,throw,practical,0,0,0,1,130-139
+588,111,dog,1,citrine,0,0,drop,throw,none,0,0,1,0,110-119
+589,66,dog,1,maroon,1,steel blue,toon-up,trap,boardwalk,0,0,1,0,60-69
+590,74,cat,0,black,0,0,sound,none,none,0,0,1,0,70-79
+591,99,mouse,0,aqua,0,0,drop,none,wonky,0,0,1,0,90-99
+592,118,horse,0,pink,0,0,trap,throw,wonky,0,0,1,0,110-119
+593,88,duck,0,yellow,0,0,trap,throw,wonky,0,0,1,0,80-89
+594,107,cat,1,ice blue,0,0,trap,none,shivering,0,0,1,0,100-109
+595,108,cat,0,amber,0,0,drop,none,member,0,0,1,0,100-109
+596,111,mouse,1,sea green,0,0,trap,throw,none,0,0,1,0,110-119
+597,106,dog,1,bright red,0,0,trap,none,wonky,0,0,1,0,100-109
+598,110,cat,0,pink,0,0,drop,throw,boardwalk,0,0,1,0,110-119
+599,94,bear,0,ice blue,0,0,trap,throw,nautical,0,0,1,0,90-99
+600,82,bear,0,tan,0,0,drop,throw,wonky,0,0,1,0,80-89
+601,106,dog,0,ice blue,1,maroon,trap,squirt,spooky,0,0,1,0,100-109
+602,116,monkey,0,blue,0,0,trap,lure,poetic,0,0,1,0,110-119
+603,100,crocodile,0,periwinkle,1,blue,trap,none,shivering,0,0,1,0,100-109
+604,111,cat,1,ice blue,1,periwinkle,lure,trap,silly,0,0,1,0,110-119
+605,114,rabbit,0,periwinkle,1,bright red,drop,trap,nautical,0,0,1,0,110-119
+606,102,cat,0,bright red,0,0,trap,none,cartoonival,0,0,1,0,100-109
+607,114,cat,0,lime green,0,0,trap,throw,spooky,0,0,1,0,110-119
+608,80,rabbit,1,coral,0,0,trap,lure,none,0,0,1,0,80-89
+609,65,dog,0,dark green,0,0,drop,lure,member,0,0,1,0,60-69
+610,98,deer,0,sea green,0,0,lure,trap,poetic,0,0,1,0,90-99
+611,102,mouse,0,lavender,0,0,drop,none,poetic,0,0,1,0,100-109
+612,104,deer,0,beige,0,0,drop,throw,shivering,0,0,1,0,100-109
+613,83,duck,0,cream,0,0,drop,none,none,0,0,1,0,80-89
+614,106,cat,0,ice blue,1,mint green,trap,none,poetic,0,0,1,0,100-109
+615,121,dog,0,brown,0,0,drop,none,none,0,0,0,0,120-129
+616,95,deer,0,bubblegum,0,0,trap,none,shivering,0,0,1,0,90-99
+617,92,mouse,1,purple,1,lavender,sound,none,none,0,0,1,0,90-99
+618,110,rabbit,0,teal,1,slate blue,lure,sound,silly,0,1,1,0,110-119
+619,108,crocodile,1,lime green,0,0,toon-up,trap,shivering,0,0,1,0,100-109
+620,109,mouse,1,royal blue,0,0,drop,throw,poetic,0,0,1,0,100-109
+621,63,mouse,0,mint green,0,0,sound,toon-up,none,0,0,1,0,60-69
+622,100,bear,0,cream,0,0,lure,none,none,0,0,1,0,100-109
+623,80,deer,0,cream,0,0,drop,throw,shivering,0,0,1,0,80-89
+624,74,dog,1,apricot,0,0,drop,none,none,0,0,1,0,70-79
+625,112,cat,0,peach,0,0,drop,throw,shivering,0,0,1,0,110-119
+626,118,duck,1,cartoonival blue,0,0,drop,trap,shivering,0,0,1,0,110-119
+627,75,cat,1,aqua,0,0,drop,none,shivering,0,0,1,0,70-79
+628,129,cat,1,cartoonival blue,0,0,trap,none,practical,1,0,0,1,120-129
+629,106,mouse,0,light blue,0,0,lure,throw,poetic,0,0,1,0,100-109
+630,112,duck,0,yellow,0,0,drop,lure,none,0,0,1,0,110-119
+631,129,bear,1,cream,0,0,lure,trap,none,0,0,0,0,120-129
+632,109,cat,0,pink,0,0,drop,trap,whimsical,0,0,1,1,100-109
+633,110,deer,0,maroon,0,0,trap,none,boardwalk,0,0,1,0,110-119
+634,103,bear,1,crimson,0,0,drop,none,none,0,0,1,0,100-109
+635,112,rabbit,0,bubblegum,1,yellow,toon-up,trap,cartoonival,0,0,1,0,110-119
+636,107,dog,1,cartoonival blue,0,0,drop,lure,spooky,0,0,1,0,100-109
+637,129,rabbit,1,coral,0,0,drop,throw,silly,0,0,0,0,120-129
+638,117,duck,1,spooky purple,0,0,trap,throw,poetic,0,0,1,0,110-119
+639,103,mouse,0,purple,0,0,trap,none,poetic,0,0,1,0,100-109
+640,118,dog,1,blue,0,0,drop,throw,none,0,0,1,0,110-119
+641,110,duck,1,slate blue,0,0,drop,lure,none,0,0,1,0,110-119
+642,105,cat,0,slate blue,0,0,drop,trap,none,0,0,1,0,100-109
+643,116,cat,0,black,0,0,trap,throw,cartoonival,0,0,1,0,110-119
+644,117,dog,0,lime green,0,0,trap,throw,boardwalk,0,0,1,0,110-119
+645,111,dog,1,crimson,1,brown,trap,sound,poetic,0,1,1,0,110-119
+646,122,mouse,0,aqua,0,0,trap,drop,wonky,0,0,0,0,120-129
+647,103,cat,0,sea green,0,0,drop,lure,poetic,0,0,1,0,100-109
+648,127,dog,1,orange,1,citrine,drop,throw,cartoonival,0,0,0,0,120-129
+649,95,mouse,0,purple,0,0,trap,sound,none,0,1,1,0,90-99
+650,134,duck,0,periwinkle,0,0,drop,throw,cartoonival,0,0,0,0,130-139
+651,104,pig,1,amber,0,0,drop,none,none,0,0,1,0,100-109
+652,103,horse,0,bubblegum,0,0,drop,lure,nautical,0,0,1,0,100-109
+653,122,cat,0,purple,0,0,drop,trap,poetic,0,0,0,0,120-129
+654,69,mouse,1,sienna,0,0,drop,sound,none,0,1,1,0,60-69
+655,116,bear,1,blue,1,yellow,drop,trap,silly,0,0,1,0,110-119
+656,67,duck,0,aqua,1,yellow,trap,none,none,0,0,1,0,60-69
+657,88,monkey,1,slate blue,0,0,trap,drop,silly,0,0,1,0,80-89
+658,73,mouse,0,pink,0,0,trap,none,none,0,0,1,0,70-79
+659,64,dog,1,aqua,0,0,trap,throw,none,0,0,1,0,60-69
+660,103,dog,1,aqua,0,0,trap,lure,poetic,0,0,1,0,100-109
+661,120,deer,0,light blue,0,0,trap,throw,boardwalk,0,0,0,0,120-129
+662,114,mouse,0,peach,0,0,trap,throw,poetic,0,0,1,0,110-119
+663,106,cat,0,ice blue,0,0,trap,sound,none,0,1,1,0,100-109
+664,123,rabbit,0,brown,0,0,trap,throw,silly,0,0,0,0,120-129
+665,116,cat,1,black,0,0,trap,throw,none,0,0,1,0,110-119
+666,109,cat,1,beige,0,0,trap,throw,nautical,0,0,1,0,100-109
+667,118,cat,1,black,0,0,trap,sound,practical,1,1,1,1,110-119
+668,83,cat,0,beige,0,0,trap,none,none,0,0,1,0,80-89
+669,108,horse,1,coral,0,0,trap,squirt,none,0,0,1,0,100-109
+670,98,horse,1,green,0,0,drop,sound,boardwalk,0,1,1,0,90-99
+671,86,duck,0,yellow,0,0,trap,none,spooky,0,0,1,0,80-89
+672,110,bear,0,emerald,0,0,drop,lure,silly,0,0,1,0,110-119
+673,123,cat,0,ice blue,1,cream,drop,throw,cartoonival,0,0,0,0,120-129
+674,120,mouse,0,brown,0,0,trap,sound,cartoonival,0,1,0,0,120-129
+675,123,dog,0,aqua,0,0,sound,lure,action,0,0,0,1,120-129
+676,103,pig,0,maroon,0,0,trap,lure,spooky,0,0,1,0,100-109
+677,98,pig,1,crimson,0,0,trap,toon-up,none,0,0,1,0,90-99
+678,132,cat,0,maroon,1,peach,trap,throw,fancy,0,0,0,1,130-139
+679,106,rabbit,0,coral,0,0,drop,throw,none,0,0,1,0,100-109
+680,115,duck,1,yellow,0,0,trap,throw,western,0,0,1,0,110-119
+681,126,cat,0,bubblegum,0,0,trap,throw,wonky,0,0,0,0,120-129
+682,85,cat,0,crimson,0,0,trap,none,shivering,0,0,1,0,80-89
+683,91,cat,0,ice blue,1,periwinkle,drop,none,spooky,0,0,1,0,90-99
+684,119,dog,1,blue,0,0,drop,throw,none,0,0,1,0,110-119
+685,94,monkey,1,apricot,0,0,trap,toon-up,poetic,0,0,1,0,90-99
+686,106,monkey,0,green,0,0,drop,trap,spooky,0,0,1,0,100-109
+687,76,cat,1,black,0,0,drop,trap,none,0,0,1,0,70-79
+688,65,crocodile,0,slate blue,0,0,trap,drop,none,0,0,1,0,60-69
+689,76,cat,1,blue,0,0,trap,none,none,0,0,1,0,70-79
+690,114,monkey,1,yellow,0,0,drop,throw,poetic,0,0,1,0,110-119
+691,65,deer,1,royal blue,0,0,trap,lure,shivering,0,0,1,0,60-69
+692,81,deer,1,coral,0,0,trap,none,none,0,0,1,0,80-89
+693,81,duck,0,sienna,0,0,trap,lure,none,0,0,1,0,80-89
+694,108,bear,1,cartoonival blue,0,0,drop,none,cartoonival,0,0,1,0,100-109
+695,121,bear,1,blue,0,0,drop,trap,spooky,0,0,0,0,120-129
+696,75,cat,1,black,0,0,sound,trap,none,0,0,1,0,70-79
+697,84,cat,0,pink,0,0,trap,none,none,0,0,1,0,80-89
+698,103,deer,0,beige,0,0,drop,none,shivering,0,0,1,0,100-109
+699,74,crocodile,0,purple,0,0,drop,sound,none,0,1,1,0,70-79
+700,67,horse,0,rose pink,0,0,trap,toon-up,none,0,0,1,0,60-69
+701,66,bear,0,white,0,0,trap,throw,none,0,0,1,0,60-69
+702,97,deer,0,light blue,0,0,trap,none,none,0,0,1,0,90-99
+703,139,horse,1,bright red,0,0,drop,trap,wonky,0,0,0,0,130-139
+704,106,deer,0,cartoonival pink,0,0,lure,trap,nautical,1,0,1,0,100-109
+705,115,mouse,0,tan,0,0,trap,none,wonky,0,0,1,0,110-119
+706,104,duck,1,coral,0,0,drop,none,shivering,0,0,1,0,100-109
+707,96,bear,0,pink,1,green,drop,none,none,0,0,1,0,90-99
+708,139,rabbit,0,peach,1,yellow,sound,none,zany,0,0,0,1,130-139
+709,106,dog,0,teal,1,purple,trap,throw,wonky,0,0,1,0,100-109
+710,122,cat,0,peach,1,aqua,drop,throw,whimsical,0,0,0,1,120-129
+711,73,crocodile,0,rose pink,1,purple,drop,none,spooky,0,0,1,0,70-79
+712,137,cat,0,black,0,0,trap,sound,fancy,0,1,0,1,130-139
+713,122,cat,0,red,1,bubblegum,drop,throw,none,0,0,0,0,120-129
+714,105,duck,0,cream,0,0,trap,throw,none,0,0,1,0,100-109
+715,135,crocodile,1,lime green,0,0,drop,none,member,0,0,0,0,130-139
+716,138,cat,0,cream,0,0,trap,throw,fancy,1,0,0,1,130-139
+717,113,cat,0,cartoonival blue,0,0,trap,throw,poetic,0,0,1,0,110-119
+718,133,pig,1,royal blue,0,0,trap,drop,practical,0,0,0,1,130-139
+719,112,crocodile,0,mint green,0,0,lure,throw,silly,0,0,1,0,110-119
+720,119,mouse,0,periwinkle,0,0,drop,trap,silly,0,0,1,0,110-119
+721,94,deer,0,bubblegum,0,0,drop,lure,none,0,0,1,0,90-99
+722,107,mouse,0,peach,0,0,trap,none,wonky,0,0,1,0,100-109
+723,82,rabbit,0,coral,0,0,drop,none,none,0,0,1,0,80-89
+724,134,rabbit,0,peach,0,0,trap,throw,poetic,0,0,0,0,130-139
+725,115,monkey,0,beige,0,0,drop,throw,spooky,0,0,1,0,110-119
+726,132,crocodile,0,cartoonival blue,0,0,trap,throw,spooky,0,0,0,0,130-139
+727,101,mouse,1,green,0,0,trap,none,none,0,0,1,0,100-109
+728,126,cat,1,orange,0,0,drop,none,silly,0,0,0,0,120-129
+729,102,cat,0,lavender,0,0,lure,throw,cartoonival,0,0,1,0,100-109
+730,121,cat,0,spooky purple,0,0,drop,throw,wonky,0,0,0,0,120-129
+731,116,bear,1,coral,0,0,trap,drop,nautical,0,0,1,0,110-119
+732,69,mouse,0,ice blue,0,0,toon-up,trap,poetic,0,0,1,0,60-69
+733,115,deer,0,slate blue,0,0,trap,lure,boardwalk,0,0,1,0,110-119
+734,119,dog,1,bright red,0,0,drop,none,silly,0,0,1,0,110-119
+735,109,bear,0,white,0,0,drop,throw,poetic,0,0,1,0,100-109
+736,100,rabbit,0,pink,0,0,trap,sound,poetic,0,1,1,0,100-109
+737,120,dog,1,bright red,0,0,drop,trap,nautical,0,0,0,0,120-129
+738,83,cat,1,black,0,0,trap,throw,shivering,1,0,1,0,80-89
+739,110,cat,0,black,0,0,toon-up,trap,poetic,0,0,1,0,110-119
+740,94,horse,1,emerald,0,0,trap,throw,shivering,0,0,1,0,90-99
+741,74,cat,1,blue,0,0,trap,none,nautical,0,0,1,0,70-79
+742,102,pig,0,yellow,1,coral,lure,none,none,0,0,1,0,100-109
+743,136,cat,1,ice blue,1,steel blue,sound,none,action,0,0,0,1,130-139
+744,131,mouse,1,spooky purple,0,0,drop,none,spooky,0,0,0,0,130-139
+745,105,crocodile,0,bubblegum,0,0,drop,throw,none,0,0,1,0,100-109
+746,109,pig,0,purple,0,0,drop,lure,whimsical,0,0,1,1,100-109
+747,106,deer,1,beige,0,0,lure,throw,none,0,0,1,0,100-109
+748,103,horse,1,cream,0,0,drop,none,member,0,0,1,0,100-109
+749,74,crocodile,1,spooky purple,0,0,toon-up,none,spooky,0,0,1,0,70-79
+750,124,mouse,0,yellow,0,0,trap,throw,wonky,0,0,0,0,120-129
+751,85,duck,1,aqua,1,orange,trap,throw,spooky,0,0,1,0,80-89
+752,83,dog,1,steel blue,1,aqua,trap,none,boardwalk,1,0,1,0,80-89
+753,135,mouse,0,periwinkle,1,mint green,trap,sound,poetic,1,1,0,0,130-139
+754,105,pig,1,rose pink,1,ice blue,drop,lure,shivering,0,0,1,0,100-109
+755,113,dog,1,yellow,1,crimson,drop,throw,western,0,0,1,0,110-119
+756,63,horse,0,peach,1,cream,sound,none,none,0,0,1,0,60-69
+757,101,deer,0,purple,1,apricot,trap,none,none,0,0,1,0,100-109
+758,83,cat,1,aqua,1,steel blue,lure,none,poetic,1,0,1,0,80-89
+759,114,bear,1,purple,1,teal,trap,throw,silly,0,0,1,0,110-119
+760,105,mouse,1,purple,1,lavender,sound,throw,none,0,0,1,0,100-109
+761,113,dog,1,royal blue,1,rose pink,trap,sound,action,0,1,1,1,110-119
+762,117,dog,1,royal blue,0,0,trap,throw,silly,0,0,1,0,110-119
+763,130,dog,1,green,1,purple,trap,throw,zany,0,0,0,1,130-139
+764,84,pig,0,lavender,1,purple,drop,throw,none,0,0,1,0,80-89
+765,116,duck,1,sea green,0,0,drop,none,fancy,0,0,1,1,110-119
+766,100,dog,1,mint green,1,aqua,trap,none,boardwalk,0,0,1,0,100-109
+767,103,deer,1,pink,1,ice blue,trap,none,none,0,0,1,0,100-109
+768,105,crocodile,1,spooky purple,0,0,trap,sound,shivering,0,1,1,0,100-109
+769,108,dog,1,teal,1,royal blue,lure,none,western,0,0,1,0,100-109
+770,74,cat,0,beige,1,royal blue,lure,sound,spooky,1,1,1,0,70-79
+771,137,cat,0,ice blue,0,0,drop,throw,fancy,1,0,0,1,130-139
+772,78,deer,0,lavender,1,beige,drop,lure,cartoonival,0,0,1,0,70-79
+773,110,cat,0,spooky purple,0,0,drop,none,wonky,0,0,1,0,110-119
+774,100,deer,0,yellow,1,aqua,drop,lure,poetic,0,0,1,0,100-109
+775,106,cat,0,cream,0,0,trap,lure,shivering,0,0,1,0,100-109
+776,130,dog,1,ice blue,0,0,trap,throw,shivering,0,0,0,0,130-139
+777,67,cat,1,rose pink,1,aqua,lure,sound,wonky,1,1,1,0,60-69
+778,111,duck,0,royal blue,1,orange,trap,none,fancy,0,0,1,1,110-119
+779,125,cat,0,ice blue,0,0,drop,throw,wonky,1,0,0,0,120-129
+780,120,dog,0,orange,0,0,trap,none,cartoonival,0,0,0,0,120-129
+781,106,mouse,1,orange,0,0,lure,trap,none,0,0,1,0,100-109
+782,106,dog,1,steel blue,0,0,drop,none,practical,0,0,1,1,100-109
+783,106,crocodile,1,cartoonival pink,0,0,trap,lure,practical,0,0,1,1,100-109
+784,75,deer,0,purple,0,0,trap,none,shivering,0,0,1,0,70-79
+785,130,deer,0,periwinkle,0,0,drop,sound,poetic,1,1,0,0,130-139
+786,102,duck,0,citrine,0,0,lure,none,none,0,0,1,0,100-109
+787,87,mouse,1,purple,0,0,trap,lure,action,0,0,1,1,80-89
+788,82,duck,0,cream,0,0,trap,none,wonky,0,0,1,0,80-89
+789,131,cat,0,cream,0,0,drop,none,spooky,0,0,0,0,130-139
+790,106,cat,0,black,0,0,drop,lure,spooky,0,0,1,0,100-109
+791,106,cat,1,sea green,0,0,trap,none,silly,0,0,1,0,100-109
+792,102,dog,1,brown,0,0,drop,lure,spooky,0,0,1,0,100-109
+793,139,cat,1,slate blue,1,beige,drop,sound,wonky,1,1,0,0,130-139
+794,124,mouse,0,steel blue,0,0,trap,sound,practical,1,1,0,1,120-129
+795,66,cat,0,purple,0,0,trap,none,none,0,0,1,0,60-69
+796,75,deer,0,maroon,0,0,trap,none,none,0,0,1,0,70-79
+797,101,dog,1,aqua,0,0,drop,throw,shivering,0,0,1,0,100-109
+798,112,dog,1,coral,0,0,drop,toon-up,shivering,0,0,1,0,110-119
+799,104,duck,0,bright red,0,0,drop,sound,spooky,0,1,1,0,100-109
+800,106,deer,1,cream,1,crimson,drop,throw,cartoonival,0,0,1,0,100-109
+801,110,crocodile,1,royal blue,0,0,lure,trap,spooky,0,0,1,0,110-119
+802,107,cat,1,red,1,cream,toon-up,sound,fancy,0,1,1,1,100-109
+803,137,rabbit,1,peach,0,0,drop,trap,triumphant,0,0,0,1,130-139
+804,109,dog,1,blue,1,ice blue,sound,throw,cartoonival,0,0,1,0,100-109
+805,137,duck,0,cream,0,0,trap,throw,triumphant,0,0,0,1,130-139
+806,115,cat,0,black,0,0,drop,throw,none,0,0,1,0,110-119
+807,122,dog,0,brown,0,0,drop,none,none,0,0,0,0,120-129
+808,105,cat,0,aqua,1,royal blue,drop,none,none,0,0,1,0,100-109
+809,82,dog,0,green,1,lime green,trap,none,none,0,0,1,0,80-89
+810,90,horse,1,brown,0,0,trap,throw,spooky,0,0,1,0,90-99
+811,139,cat,1,aqua,1,royal blue,toon-up,sound,triumphant,0,1,0,1,130-139
+812,139,cat,1,bright red,1,bubblegum,toon-up,sound,action,0,1,0,1,130-139
+813,129,cat,0,slate blue,1,steel blue,toon-up,sound,silly,0,1,0,0,120-129
+814,111,rabbit,1,purple,0,0,trap,none,none,0,0,1,0,110-119
+815,86,rabbit,0,tan,0,0,trap,none,spooky,0,0,1,0,80-89
+816,110,dog,0,crimson,0,0,lure,toon-up,poetic,0,0,1,0,110-119
+817,111,bear,1,blue,1,periwinkle,drop,sound,none,0,1,1,0,110-119
+818,84,cat,0,yellow,0,0,trap,lure,none,0,0,1,0,80-89
+819,94,dog,0,amber,0,0,trap,none,none,0,0,1,0,90-99
+820,132,rabbit,1,peach,1,bubblegum,toon-up,sound,fancy,0,1,0,1,130-139
+821,112,monkey,0,crimson,0,0,drop,lure,shivering,0,0,1,0,110-119
+822,104,cat,0,pink,0,0,trap,none,spooky,0,0,1,0,100-109
+823,88,mouse,1,lime green,1,blue,toon-up,throw,cartoonival,0,0,1,0,80-89
+824,121,crocodile,1,maroon,0,0,trap,sound,spooky,0,1,0,0,120-129
+825,113,rabbit,1,royal blue,1,blue,trap,lure,boardwalk,0,0,1,0,110-119
+826,106,bear,1,dark green,1,bright red,lure,throw,spooky,0,0,1,0,100-109
+827,62,cat,0,rose pink,1,crimson,drop,none,member,0,0,1,0,60-69
+828,138,duck,0,pink,1,cream,toon-up,sound,action,0,1,0,1,130-139
+829,139,mouse,1,yellow,1,aqua,lure,trap,whimsical,0,0,0,1,130-139
+830,111,dog,1,dark green,0,0,drop,none,poetic,0,0,1,0,110-119
+831,104,rabbit,0,cream,1,royal blue,trap,none,nautical,0,0,1,0,100-109
+832,106,cat,0,beige,0,0,trap,none,none,0,0,1,0,100-109
+833,133,cat,0,yellow,0,0,trap,throw,wonky,0,0,0,0,130-139
+834,63,horse,0,cream,1,citrine,trap,none,none,0,0,1,0,60-69
+835,78,mouse,1,royal blue,0,0,trap,throw,spooky,0,0,1,0,70-79
+836,125,cat,0,ice blue,0,0,drop,throw,wonky,1,0,0,0,120-129
+837,117,deer,0,bubblegum,1,crimson,drop,throw,boardwalk,0,0,1,0,110-119
+838,91,pig,0,lavender,1,purple,drop,throw,none,0,0,1,0,90-99
+839,118,duck,1,royal blue,0,0,trap,throw,member,0,0,1,0,110-119
+840,133,cat,0,royal blue,1,periwinkle,trap,sound,action,0,1,0,1,130-139
+841,105,deer,0,ice blue,0,0,drop,throw,poetic,0,0,1,0,100-109
+842,102,mouse,1,coral,0,0,trap,none,nautical,0,0,1,0,100-109
+843,73,pig,0,purple,0,0,trap,none,shivering,0,0,1,0,70-79
+844,78,dog,1,brown,1,crimson,trap,throw,none,0,0,1,0,70-79
+845,109,mouse,0,maroon,0,0,trap,none,silly,0,0,1,0,100-109
+846,87,cat,0,bubblegum,1,apricot,trap,drop,none,0,0,1,0,80-89
+847,100,mouse,0,mint green,0,0,drop,throw,wonky,0,0,1,0,100-109
+848,105,bear,1,steel blue,0,0,drop,trap,shivering,0,0,1,0,100-109
+849,105,pig,1,rose pink,1,ice blue,drop,lure,shivering,0,0,1,0,100-109
+850,109,horse,0,purple,0,0,trap,none,boardwalk,0,0,1,0,100-109
+851,117,cat,0,bright red,0,0,trap,throw,shivering,0,0,1,0,110-119
+852,117,cat,0,bubblegum,0,0,drop,throw,member,0,0,1,0,110-119
+853,84,rabbit,0,aqua,0,0,trap,none,none,0,0,1,0,80-89
+854,84,rabbit,1,purple,0,0,toon-up,none,poetic,0,0,1,0,80-89
+855,107,rabbit,1,emerald,0,0,trap,lure,none,0,0,1,0,100-109
+856,105,monkey,0,tan,0,0,trap,none,boardwalk,0,0,1,0,100-109
+857,120,mouse,0,blue,0,0,drop,throw,western,0,0,0,0,120-129
+858,117,duck,1,slate blue,0,0,drop,lure,wonky,0,0,1,0,110-119
+859,67,cat,0,ice blue,0,0,lure,squirt,none,0,0,1,0,60-69
+860,83,deer,0,amber,0,0,trap,none,poetic,0,0,1,0,80-89
+861,104,mouse,0,sea green,1,aqua,trap,none,member,0,0,1,0,100-109
+862,81,dog,0,periwinkle,1,pink,trap,lure,shivering,0,0,1,0,80-89
+863,105,dog,1,bright red,0,0,trap,throw,shivering,0,0,1,0,100-109
+864,95,horse,1,amber,1,mint green,trap,sound,none,0,1,1,0,90-99
+865,118,duck,0,periwinkle,0,0,toon-up,throw,fancy,0,0,1,1,110-119
+866,75,cat,1,orange,0,0,trap,none,none,0,0,1,0,70-79
+867,104,dog,0,rose pink,0,0,lure,throw,wonky,0,0,1,0,100-109
+868,114,crocodile,1,light blue,0,0,trap,throw,none,0,0,1,0,110-119
+869,109,deer,1,steel blue,0,0,trap,lure,western,0,0,1,0,100-109
+870,77,mouse,0,pink,0,0,trap,none,none,0,0,1,0,70-79
+871,66,bear,0,ice blue,0,0,toon-up,none,none,0,0,1,0,60-69
+872,104,cat,0,coral,0,0,trap,throw,poetic,0,0,1,0,100-109
+873,114,duck,1,yellow,0,0,drop,lure,none,0,0,1,0,110-119
+874,134,deer,0,beige,1,cream,trap,throw,silly,0,0,0,0,130-139
+875,62,mouse,1,teal,0,0,trap,throw,none,0,0,1,0,60-69
+876,108,deer,0,coral,0,0,trap,none,none,0,0,1,0,100-109
+877,101,pig,0,purple,1,royal blue,drop,none,none,0,0,1,0,100-109
+878,102,duck,1,crimson,0,0,trap,none,shivering,0,0,1,0,100-109
+879,105,monkey,1,blue,0,0,trap,throw,shivering,0,0,1,0,100-109
+880,83,mouse,0,purple,0,0,drop,none,none,0,0,1,0,80-89
+881,94,cat,0,apricot,0,0,trap,throw,none,0,0,1,0,90-99
+882,75,cat,1,brown,0,0,drop,none,poetic,0,0,1,0,70-79
+883,121,monkey,1,green,0,0,drop,trap,none,0,0,0,0,120-129
+884,74,cat,0,purple,0,0,drop,lure,member,0,0,1,0,70-79
+885,73,dog,1,royal blue,0,0,drop,none,none,0,0,1,0,70-79
+886,113,cat,1,cream,0,0,trap,lure,wonky,0,0,1,0,110-119
+887,105,mouse,1,apricot,0,0,trap,lure,nautical,0,0,1,0,100-109
+888,64,deer,0,blue,0,0,drop,throw,none,0,0,1,0,60-69
+889,76,cat,0,periwinkle,0,0,lure,trap,poetic,0,0,1,0,70-79
+890,62,mouse,1,teal,0,0,trap,throw,none,0,0,1,0,60-69
+891,76,bear,0,blue,1,royal blue,drop,throw,boardwalk,0,0,1,0,70-79
+892,127,rabbit,0,royal blue,1,slate blue,trap,throw,practical,0,0,0,1,120-129
+893,83,dog,1,green,1,crimson,trap,sound,shivering,0,1,1,0,80-89
+894,118,cat,0,crimson,1,cream,drop,throw,practical,1,0,1,1,110-119
+895,101,pig,0,purple,1,royal blue,drop,none,none,0,0,1,0,100-109
+896,85,pig,1,ice blue,1,mint green,drop,none,none,0,0,1,0,80-89
+897,80,cat,0,bright red,1,cream,lure,none,member,0,0,1,0,80-89
+898,139,dog,1,sea green,0,0,drop,throw,triumphant,0,0,0,1,130-139
+899,92,horse,1,sienna,0,0,drop,none,boardwalk,0,0,1,0,90-99
+900,139,horse,1,yellow,0,0,trap,sound,none,0,1,0,0,130-139
+901,101,cat,1,brown,0,0,drop,lure,none,0,0,1,0,100-109
+902,136,dog,1,steel blue,0,0,trap,sound,spooky,1,1,0,0,130-139
+903,78,cat,1,steel blue,0,0,trap,none,none,0,0,1,0,70-79
+904,105,mouse,0,cream,0,0,trap,throw,poetic,0,0,1,0,100-109
+905,84,dog,1,beige,0,0,toon-up,trap,zany,0,0,1,1,80-89
+906,108,duck,0,yellow,0,0,trap,throw,boardwalk,0,0,1,0,100-109
+907,102,monkey,1,aqua,0,0,drop,throw,none,0,0,1,0,100-109
+908,84,dog,1,emerald,0,0,trap,none,member,0,0,1,0,80-89
+909,83,deer,0,beige,0,0,toon-up,throw,none,0,0,1,0,80-89
+910,106,cat,0,slate blue,0,0,drop,toon-up,poetic,0,0,1,0,100-109
+911,111,deer,0,steel blue,0,0,trap,throw,poetic,0,0,1,0,110-119
+912,66,mouse,0,blue,0,0,trap,none,shivering,0,0,1,0,60-69
+913,139,cat,0,black,0,0,drop,throw,fancy,1,0,0,1,130-139
+914,98,crocodile,0,maroon,0,0,trap,none,none,0,0,1,0,90-99
+915,118,cat,0,bright red,1,cream,drop,sound,silly,0,1,1,0,110-119
+916,69,mouse,1,ice blue,1,royal blue,toon-up,none,none,0,0,1,0,60-69
+917,77,rabbit,0,rose pink,1,yellow,toon-up,none,none,0,0,1,0,70-79
+918,67,deer,1,steel blue,0,0,toon-up,throw,member,0,0,1,0,60-69
+919,119,dog,0,brown,0,0,drop,throw,poetic,0,0,1,0,110-119
+920,78,crocodile,0,green,0,0,trap,toon-up,none,0,0,1,0,70-79
+921,114,duck,0,aqua,0,0,drop,trap,poetic,0,0,1,0,110-119
+922,81,dog,0,teal,0,0,trap,none,none,0,0,1,0,80-89
+923,65,horse,0,teal,0,0,drop,lure,poetic,0,0,1,0,60-69
+924,86,horse,1,lime green,1,royal blue,sound,none,cartoonival,0,0,1,0,80-89
+925,98,horse,1,royal blue,0,0,drop,throw,none,0,0,1,0,90-99
+926,83,cat,0,steel blue,0,0,drop,throw,poetic,0,0,1,0,80-89
+927,94,crocodile,1,pink,0,0,trap,none,poetic,0,0,1,0,90-99
+928,110,crocodile,1,lime green,0,0,drop,none,boardwalk,0,0,1,0,110-119
+929,74,dog,1,crimson,0,0,trap,lure,none,0,0,1,0,70-79
+930,115,cat,0,cream,1,red,drop,none,spooky,0,0,1,0,110-119
+931,130,duck,1,green,0,0,drop,trap,western,0,0,0,0,130-139
+932,116,dog,1,yellow,0,0,toon-up,trap,wonky,0,0,1,0,110-119
+933,139,dog,1,cartoonival blue,0,0,trap,throw,practical,0,0,0,1,130-139
+934,73,deer,0,pink,1,purple,trap,lure,none,0,0,1,0,70-79
+935,107,duck,1,green,0,0,trap,lure,nautical,0,0,1,0,100-109
+936,102,crocodile,1,orange,0,0,drop,lure,member,0,0,1,0,100-109
+937,70,horse,0,cream,1,citrine,trap,none,none,0,0,1,0,70-79
+938,110,dog,1,blue,0,0,trap,throw,poetic,0,0,1,0,110-119
+939,75,cat,0,bright red,0,0,drop,toon-up,none,0,0,1,0,70-79
+940,69,cat,0,blue,0,0,trap,none,none,0,0,1,0,60-69
+941,108,dog,0,red,0,0,trap,throw,boardwalk,0,0,1,0,100-109
+942,134,bear,1,yellow,0,0,lure,trap,silly,0,0,0,0,130-139
+943,128,dog,0,bubblegum,1,periwinkle,drop,throw,nautical,1,0,0,0,120-129
+944,123,rabbit,0,brown,1,cream,sound,throw,whimsical,0,0,0,1,120-129
+945,74,deer,0,teal,0,0,trap,none,none,0,0,1,0,70-79
+946,137,cat,0,crimson,0,0,trap,sound,silly,0,1,0,0,130-139
+947,112,rabbit,1,periwinkle,0,0,toon-up,trap,nautical,0,0,1,0,110-119
+948,99,duck,1,yellow,1,ice blue,drop,none,spooky,0,0,1,0,90-99
+949,113,monkey,1,beige,0,0,drop,throw,none,0,0,1,0,110-119
+950,138,dog,1,coral,0,0,drop,none,fancy,0,0,0,1,130-139
+951,109,duck,1,aqua,0,0,drop,throw,member,0,0,1,0,100-109
+952,123,dog,0,aqua,0,0,trap,sound,practical,0,1,0,1,120-129
+953,64,mouse,1,teal,0,0,trap,none,none,0,0,1,0,60-69
+954,67,cat,0,bubblegum,1,rose pink,drop,none,wonky,0,0,1,0,60-69
+955,83,dog,1,blue,0,0,drop,none,nautical,0,0,1,0,80-89
+956,73,cat,1,royal blue,0,0,trap,throw,none,0,0,1,0,70-79
+957,64,mouse,0,pink,0,0,drop,none,none,0,0,1,0,60-69
+958,91,mouse,1,slate blue,0,0,drop,lure,none,0,0,1,0,90-99
+959,131,cat,0,pink,0,0,trap,throw,wonky,0,0,0,0,130-139
+960,111,rabbit,0,aqua,0,0,trap,throw,poetic,0,0,1,0,110-119
+961,84,monkey,1,bright red,1,dark green,trap,throw,poetic,0,0,1,0,80-89
+962,111,bear,0,emerald,0,0,trap,toon-up,whimsical,0,0,1,1,110-119
+963,106,monkey,1,orange,0,0,drop,none,shivering,0,0,1,0,100-109
+964,106,mouse,1,green,0,0,drop,throw,boardwalk,0,0,1,0,100-109
+965,84,duck,1,citrine,0,0,trap,lure,shivering,0,0,1,0,80-89
+966,88,dog,1,tan,0,0,trap,squirt,western,0,0,1,0,80-89
+967,78,deer,0,aqua,0,0,drop,none,none,0,0,1,0,70-79
+968,100,dog,1,royal blue,0,0,trap,none,poetic,0,0,1,0,100-109
+969,114,cat,1,steel blue,0,0,toon-up,trap,boardwalk,0,0,1,0,110-119
+970,64,cat,1,orange,0,0,drop,squirt,none,0,0,1,0,60-69
+971,125,duck,1,bright red,0,0,drop,none,boardwalk,0,0,0,0,120-129
+972,75,monkey,0,teal,0,0,trap,throw,none,0,0,1,0,70-79
+973,92,cat,0,ice blue,0,0,drop,none,member,0,0,1,0,90-99
+974,83,cat,0,light blue,0,0,trap,none,none,0,0,1,0,80-89
+975,133,cat,0,brown,0,0,drop,throw,wonky,0,0,0,0,130-139
+976,101,monkey,1,crimson,0,0,drop,throw,shivering,0,0,1,0,100-109
+977,139,dog,0,bright red,0,0,trap,none,poetic,0,0,0,0,130-139
+978,101,duck,0,aqua,1,citrine,trap,sound,none,0,1,1,0,100-109
+979,107,bear,0,amber,0,0,drop,none,poetic,0,0,1,0,100-109
+980,102,cat,0,blue,0,0,trap,throw,none,0,0,1,0,100-109
+981,76,cat,0,ice blue,0,0,drop,throw,none,0,0,1,0,70-79
+982,103,dog,1,crimson,0,0,trap,throw,none,0,0,1,0,100-109
+983,73,duck,1,light blue,0,0,drop,throw,shivering,0,0,1,0,70-79
+984,122,bear,1,teal,0,0,lure,throw,poetic,0,0,0,0,120-129
+985,101,mouse,0,coral,0,0,sound,none,none,0,0,1,0,100-109
+986,106,deer,1,apricot,0,0,trap,none,none,0,0,1,0,100-109
+987,70,cat,0,crimson,0,0,trap,lure,none,0,0,1,0,70-79
+988,88,dog,0,ice blue,0,0,drop,none,poetic,0,0,1,0,80-89
+989,111,duck,0,cream,0,0,drop,throw,none,0,0,1,0,110-119
+990,124,horse,1,brown,0,0,toon-up,trap,western,0,0,0,0,120-129
+991,137,cat,0,purple,1,royal blue,toon-up,throw,triumphant,1,0,0,1,130-139
+992,73,deer,0,ice blue,0,0,drop,none,none,0,0,1,0,70-79
+993,119,duck,1,red,0,0,trap,throw,wonky,1,0,1,0,110-119
+994,107,rabbit,1,steel blue,1,ice blue,trap,lure,none,0,0,1,0,100-109
+995,110,pig,1,orange,0,0,drop,throw,shivering,0,0,1,0,110-119
+996,96,dog,1,orange,1,yellow,drop,none,cartoonival,0,0,1,0,90-99
+997,87,duck,1,citrine,0,0,lure,none,none,0,0,1,0,80-89
+998,84,cat,1,periwinkle,1,royal blue,sound,lure,none,0,0,1,0,80-89
+999,103,bear,1,aqua,1,light blue,trap,throw,nautical,0,0,1,0,100-109
