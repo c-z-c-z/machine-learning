@@ -15,7 +15,7 @@ The task at hand was to use k-means clustering to group Dota heroes into three c
 The data set is publicly available from https://www.kaggle.com/datasets/prokid1911/dota-2-all-hero-data-727d. Many thanks to Mridul Gupta for putting this data set together.
 
 ## Repository contents
-This repository consists of a .py file and the dataset (also linked in the previous section).
+This repository consists of a .ipynb file (chosen to display visualizations handily) and the dataset (also linked in the previous section).
 
 ## Status
 This project is complete. I have some interest in pursuing further Dota-related machine learning projects, namely clustering based on the many hero roles instead of the three hero categories, which is a much more complex task.
