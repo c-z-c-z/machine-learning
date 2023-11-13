@@ -6,16 +6,16 @@ K-means clustering is an unsupervised machine learning method which attempts to 
 The algorithm is often applied to unlabeled data in order to uncover structure, but in this case we do have the true category labels, so they were used to evaluate the model's performance.
 
 ## Implementation and libraries
-This task was carried out using pandas, matplotlib and seaborn, and two modules from scikit-learn, KMeans and StandardScaler
+This task was carried out using pandas, matplotlib and seaborn, and two modules from scikit-learn, KMeans and StandardScaler.
 
 ## The task
-The task at hand was to use k-means clustering to group Dota heroes into 3 clusters based on their attributes. Given that the true category membership of the heroes is known, the performance of the k-means algorithm could be evaluated. High accuracy was achieved after exploring the dataset and trimming down attributes. 
+The task at hand was to use k-means clustering to group Dota heroes into three clusters based on their attributes. Given that the true category membership of the heroes is known, the performance of the k-means algorithm could be evaluated. High accuracy was achieved after exploratory analysis and trimming down of attributes. 
 
-## Dataset
-The dataset is publicly available from https://www.kaggle.com/datasets/prokid1911/dota-2-all-hero-data-727d. Many thanks to Mridul Gupta for putting this together
+## Data set
+The data set is publicly available from https://www.kaggle.com/datasets/prokid1911/dota-2-all-hero-data-727d. Many thanks to Mridul Gupta for putting this data set together.
 
 ## Repository contents
-This repository consists of a .py file and an .ipynb file as well as the dataset (also linked above)
+This repository consists of a .py file and the dataset (also linked in the previous section).
 
 ## Status
-This project is complete. I have interest in pursuing further Dota-related machine learning projects, namely clustering based on the many hero roles instead of the 3 hero categories, which will be a much more complicated task
+This project is complete. I have some interest in pursuing further Dota-related machine learning projects, namely clustering based on the many hero roles instead of the three hero categories, which is a much more complex task.
