@@ -9,7 +9,7 @@ The algorithm is often applied to unlabeled data in order to uncover structure, 
 This task was carried out using pandas, matplotlib and seaborn, and scikit-learn.
 
 ## The task
-The task at hand was to use k-means clustering to group Dota heroes into three clusters based on their base attributes. Given that the true category membership of the heroes is known, the performance of the k-means algorithm could be evaluated. High accuracy was achieved after exploratory analysis and trimming down of features. 
+The task at hand was to use k-means clustering to group Dota heroes into three clusters based on their base attributes. Given that the true category membership of the heroes is known, the performance of the k-means algorithm could be evaluated. High accuracy was achieved after exploratory analysis and subsequent feature selection. 
 
 ## Data set
 The data set is publicly available from https://www.kaggle.com/datasets/prokid1911/dota-2-all-hero-data-727d. Many thanks to Mridul Gupta for putting this data set together.
